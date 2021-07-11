@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/09 20:05:11.000.121,=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/05 14:23:55.000.160,=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/08 01:53:47.000.928,=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/08 01:54:28.000.667,C:\OUTROS\DELPHI\Exercicios\QM - 2\uPrincipal.dfm=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/07/08 01:54:28.000.667,C:\OUTROS\DELPHI\Exercicios\QM - 2\uPrincipal.pas=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/08 01:54:37.000.510,C:\OUTROS\DELPHI\Exercicios\QM - 2\QM_2.dproj=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/07/08 01:56:40.000.700,=C:\OUTROS\DELPHI\Exercicios\QM - 2\Interfaces\uIMaquina.pas</Transaction>
+    <Transaction>2021/07/08 01:57:20.000.222,=C:\OUTROS\DELPHI\Exercicios\QM - 2\Interfaces\uMaquina.pas</Transaction>
+    <Transaction>2021/07/08 01:58:34.000.828,=C:\OUTROS\DELPHI\Exercicios\QM - 2\uTroco.pas</Transaction>
+    <Transaction>2021/07/08 16:30:56.000.624,=C:\Outros\DELPHI\QM - 2\Unit1.pas</Transaction>
+    <Transaction>2021/07/08 16:31:42.000.173,=C:\Outros\DELPHI\QM - 2\Unit1.pas</Transaction>
+    <Transaction>2021/07/08 16:33:05.000.695,C:\Outros\DELPHI\QM - 2\uHelper.pas=C:\Outros\DELPHI\QM - 2\Unit1.pas</Transaction>
+    <Transaction>2021/07/08 17:08:51.000.531,C:\Outros\DELPHI\QM - 2\uHelper.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
