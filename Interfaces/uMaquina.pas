@@ -202,8 +202,6 @@ begin
 end;
 
 function TDoubleHelper.toInteger: Integer;
-var
-  resto : integer;
 begin
    Result := Trunc(Self)
 end;
